@@ -38,5 +38,4 @@ Actualmente estoy fortaleciendo mis conocimientos en:
 ## 📫 Conecta conmigo  
 - 💼 [www.linkedin.com/in/
 yezid-feria-0313a8309](#)  
-- 📧 yezid.email@example.com  
-- 🐙 Explora mis repositorios abajo ⬇️  
+- 📧 yezid.feria@icloud.com 
