@@ -1,41 +1,46 @@
-# Yezid-Feria-
-Mi repositorio personal
-# 👋 Hola, soy Yezid Feria  
+<!-- Banner -->
+<p align="center">
+  <img src="assets/Banner_Yezid.png" alt="Banner — Yezid Feria: Aspiring Data Analyst | Disciple of Christ" width="100%" />
+</p>
 
-💻 **Aspirante a Científico de Datos** | 🎓 **Graduado en Administración Logística**  
-🌍 Resido en Orlando, FL  
+# 👋 Hi, I'm Yezid Feria  
+
+💻 **Aspiring Data Scientist / Data Analyst in training**  
+🎓 **Graduate in Logistics Administration**  
+🌍 Based in Orlando, FL  
+✝️ **Disciple of Christ | Lifelong Learner 🚀**
 
 ---
 
-## 🚀 Sobre mí  
-Me apasiona la **resolución de problemas basada en datos** y transformar información en bruto en **insights accionables**.  
-Con una formación en **Administración Logística**, aporto habilidades analíticas, organizacionales y de liderazgo al mundo de la **ciencia de datos**.  
+## 🚀 About Me  
+I am passionate about **data-driven problem solving** and transforming raw information into **clear and actionable insights**.  
+With a background in **Logistics Administration**, I bring analytical, organizational, and leadership skills into the world of **data science**.  
 
-Actualmente estoy fortaleciendo mis conocimientos en:  
+Currently, I am strengthening my knowledge in:  
 - **Python** (pandas, NumPy, scikit-learn)  
 - **SQL**  
-- **Visualización de Datos** (Matplotlib, Seaborn, Power BI)  
-- **Modelos de Machine Learning** (Regresión Logística, Árboles de Decisión, Random Forest, etc.)  
+- **Excel & Power BI** for data visualization  
+- **Machine Learning** (Logistic Regression, Decision Trees, Random Forest, etc.)  
 
 ---
 
-## 📂 Proyectos destacados  
-- 📊 **[Análisis de Taxis en Chicago](#)** → Análisis exploratorio de datos y prueba de hipótesis.  
-- 📈 **[Predicción de Churn de Clientes](#)** → Modelos de clasificación con ingeniería de características.  
-- 🤖 **[Sistema de Recomendación de Planes](#)** → Comparación entre Regresión Logística y Árboles de Decisión.  
-
-
+## 📂 Featured Projects  
+- 📊 **[Chicago Taxi Analysis](#)** → Exploratory Data Analysis and hypothesis testing.  
+- 📈 **[Customer Churn Prediction](#)** → Classification models with feature engineering.  
+- 🤖 **[Plan Recommendation System](#)** → Comparison between Logistic Regression and Decision Trees.  
 
 ---
 
-## 🌟 Mis metas  
-- Hacer la transición profesional hacia un rol como **Data Analyst / Data Scientist**.  
-- Aplicar mi experiencia en logística y liderazgo para crear **soluciones eficientes basadas en datos**.  
-- Seguir desarrollando proyectos que combinen **contexto empresarial** con **habilidades técnicas**.  
+## 🌟 My Goals  
+- Continue growing as a **Data Analyst / Data Scientist in training**.  
+- Apply my experience in logistics and leadership to build **impactful data-driven solutions**.  
+- Develop projects that combine **business context** with **technical skills**.  
+- Remain a **lifelong learner**, guided by values and faith that inspire my journey ✝️.  
 
 ---
 
-## 📫 Conecta conmigo  
-- 💼 [www.linkedin.com/in/
-yezid-feria-0313a8309](#)  
-- 📧 yezid.feria@icloud.com 
+## 📫 Connect With Me  
+- 💼 [[LinkedIn](https://www.linkedin.com/in/yezid-feria-0313a8309/)](#)    
+- ✉️ yezid.feria@icloud.com  
+
+---
